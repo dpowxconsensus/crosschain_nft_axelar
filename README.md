@@ -1,4 +1,4 @@
-# Cross Chain NFT with ZETA Chain messaging protocol
+# Cross Chain NFT with Axelar cross chain messaging protocol
 
 Try running some of the following tasks:
 
