@@ -1,0 +1,17 @@
+artifacts/
+cache/
+coverage/
+coverage.json
+dist/
+node_modules/
+
+/types
+src/deploy/output
+test/outputs/
+*.swp
+.yarn/install-state.gz
+
+
+/typechain-types
+node_modules
+*.env
